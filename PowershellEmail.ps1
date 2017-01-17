@@ -1,6 +1,5 @@
 $From = "senderAddress@someaddress.com>"
 $To = "someRecipent@someaddress.com"
-
 $Attachment = "Filetoattach.txt"
 $Subject = "SampleEmailSubject"
 $Body = Get-Content Body | Out-String
